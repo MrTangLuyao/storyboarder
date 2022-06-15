@@ -1,3 +1,5 @@
+#项目好像停更了，所以我做了备份
+#GITHUB永远的神
 # Storyboarder
 
 Storyboarder makes it easy to visualize a story as fast you can draw stick figures. Quickly draw to test if a story idea works. Create and show animatics to others. Express your story idea without making a movie.
